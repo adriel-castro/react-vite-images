@@ -1,0 +1,18 @@
+.page-item:hover {
+  cursor: pointer;
+
+  z-index: 1;
+}
+
+.orangeText {
+  color: #f36917 !important;
+}
+
+.orangeText:hover {
+  background-color: rgb(138, 138, 138) !important;
+  color: #ffffff !important;
+}
+
+.orangeBg {
+  background-color: #f36917 !important;
+}
