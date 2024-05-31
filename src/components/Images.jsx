@@ -82,7 +82,7 @@ const Images = () => {
                 </div>
               ))
             ) : (
-              <h2 className="text-center mt-5">No Availble Image</h2>
+              <h2 className="text-center mt-5">No Available Image</h2>
             )}
           </div>
         )}
